@@ -1,0 +1,11 @@
+{
+    "nama" : "ahmad ridwan",
+    "alamat" : "dasan lekong",
+    "umur" : 18,
+    "no_Hp" : "083145890028",
+    "email" : "unwanulfalah23@gmail.com",
+    "hobi" : [
+        "main bola",
+        "makan"
+    ]
+}
