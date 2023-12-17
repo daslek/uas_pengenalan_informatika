@@ -8,4 +8,6 @@ https://cibirublog.wordpress.com/2023/12/17/menjelaskan-dan-menginternalisasi-co
  https://scratch.mit.edu/projects/937906877/editor
 
  https://cibirublog.wordpress.com/2023/12/17/cmd-windows/
+
+ https://youtu.be/wcw7YJbsdJU
  
