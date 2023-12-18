@@ -15,4 +15,4 @@ https://cibirublog.wordpress.com/2023/12/17/menjelaskan-dan-menginternalisasi-co
 
  https://youtu.be/k6bpNXGQKB0
 
- file:///D:/daspro%20dan%20pengenalan%20informatika/ipynb%20-%20Colaboratory.html
+ https://wordpress.com/post/cibirublog.wordpress.com/73
